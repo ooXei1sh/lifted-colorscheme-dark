@@ -3,7 +3,7 @@ lifted-colorscheme-dark
 
 lifted-colorscheme-dark
 
-Dark scheme for sublime text based on lioshi https://github.com/lioshi/lioshiScheme
+Dark color scheme for sublime text lifted from lioshi https://github.com/lioshi/lioshiScheme
 
 ---
 
