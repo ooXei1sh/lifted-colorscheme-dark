@@ -99,7 +99,8 @@
             <key>name</key>
             <string>Class name</string>
             <key>scope</key>
-            <string>entity.name.type.class, support.type, support.class</string>
+            <string>text.html.basic, entity.name.type.class, support.type, support.class</string>
+            <!-- <string>php.embedded.block.html, meta.use.php, support.other.namespace.use.php</string> -->
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -643,8 +644,37 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
+                <string>#C5C8C6</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>name</key>
+            <string>fix source</string>
+            <key>scope</key>
+            <string>source</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
                 <!-- gold A67F32 -->
                 <string>#A67F32</string>
+            </dict>
+        </dict>
+
+        <!-- js fix for source -->
+        <dict>
+            <key>name</key>
+            <string>js fix</string>
+            <key>scope</key>
+            <string>source.js</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#C5C8C6</string>
             </dict>
         </dict>
 
