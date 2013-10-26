@@ -741,9 +741,9 @@
 
         <dict>
             <key>name</key>
-            <string>Css blue attributes</string>
+            <string>Css blue attributes and selectors</string>
             <key>scope</key>
-            <string>meta.selector.css, meta.attribute-selector.css, entity.other.attribute-name.attribute.css, entity.other.attribute-name.css, string.unquoted.attribute-value.css, string.quoted.double.attribute-value.css</string>
+            <string>meta.selector.css, entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css, entity.name.tag.wildcard.css, meta.attribute-selector.css, entity.other.attribute-name.attribute.css, entity.other.attribute-name.css, string.unquoted.attribute-value.css, string.quoted.double.attribute-value.css</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
