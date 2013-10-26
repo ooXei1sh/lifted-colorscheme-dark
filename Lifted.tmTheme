@@ -57,13 +57,25 @@
 
         <dict>
             <key>name</key>
-            <string>String Link, Regular Expression, Tag Name</string>
+            <string>Gold String Link, Regular Expression, Tag Name</string>
             <key>scope</key>
-            <string>string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
+            <string>string.other.link, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
                 <string>#A67F32</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>name</key>
+            <string>Green Regular Expression</string>
+            <key>scope</key>
+            <string>string.regexp</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A1A766</string>
             </dict>
         </dict>
 
