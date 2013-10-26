@@ -715,7 +715,7 @@
             <key>name</key>
             <string>Php red name space and use metas</string>
             <key>scope</key>
-            <string>meta.use.php, meta.namespace.php, meta.class.php, meta.other.inherited-class.php, entity.other.inherited-class.php</string>
+            <string>meta.use.php, meta.namespace.php, meta.class.php, support.other.namespace.php, meta.other.inherited-class.php, entity.other.inherited-class.php</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
