@@ -727,6 +727,34 @@
 
         <dict>
             <key>name</key>
+            <string>Sql green double quotes</string>
+            <key>scope</key>
+            <string>text.html.basic source.php.embedded.block.html string.quoted.double.sql.php source.sql.embedded.php keyword, text.html.basic source.php.embedded.block.html string.quoted.double.sql.php source.sql.embedded.php, text.html.basic source.php.embedded.block.html string.quoted.double.sql.php source.sql.embedded.php keyword.operator, text.html.basic source.php.embedded.block.html string.quoted.double.sql.php source.sql.embedded.php constant.numeric, text.html.basic source.php.embedded.block.html string.quoted.double.sql.php source.sql.embedded.php storage.type</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#A1A766</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>name</key>
+            <string>Sql green single quotes</string>
+            <key>scope</key>
+            <string>text.html.basic source.php.embedded.block.html string.quoted.single.sql.php source.sql.embedded.php keyword, text.html.basic source.php.embedded.block.html string.quoted.single.sql.php source.sql.embedded.php, text.html.basic source.php.embedded.block.html string.quoted.single.sql.php source.sql.embedded.php keyword.operator, text.html.basic source.php.embedded.block.html string.quoted.single.sql.php source.sql.embedded.php constant.numeric, text.html.basic source.php.embedded.block.html string.quoted.single.sql.php source.sql.embedded.php storage.type</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#A1A766</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>name</key>
             <string>Css white source</string>
             <key>scope</key>
             <string>source.css</string>
@@ -766,29 +794,49 @@
 
         <dict>
             <key>name</key>
-            <string>Sql green double quotes</string>
+            <string>Sql source</string>
             <key>scope</key>
-            <string>text.html.basic source.php.embedded.block.html string.quoted.double.sql.php source.sql.embedded.php keyword, text.html.basic source.php.embedded.block.html string.quoted.double.sql.php source.sql.embedded.php, text.html.basic source.php.embedded.block.html string.quoted.double.sql.php source.sql.embedded.php keyword.operator, text.html.basic source.php.embedded.block.html string.quoted.double.sql.php source.sql.embedded.php constant.numeric, text.html.basic source.php.embedded.block.html string.quoted.double.sql.php source.sql.embedded.php storage.type</string>
+            <string>source.sql, meta.create.sql, keyword.operator.star.sql, keyword.opterator.comparison.sql, entity.name.function.sql, constant.other.table-name.sql, constant.other.database-name.sql</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#A1A766</string>
+                <string>#81A2BE</string>
+                <!-- <string>#A1A766</string> -->
+                <!-- <string>#C5C8C6</string> -->
+            </dict>
+        </dict>
+
+         <dict>
+            <key>name</key>
+            <string>Sql keyword</string>
+            <key>scope</key>
+            <string>keyword.other.sql, keyword.other.order.sql, keyword.operator.comparison.sql, keyword.other.create.sql, keyword.other.table.sql, keyword.other.alias.sql, storage.modifier.sql, keyword.other.table.sql, keyword.other.DML.sql, keyword.other.data-integrity.sql, storage.type.sql, keyword.other.DDL.create.II.sql</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <!-- <string>#81A2BE</string> -->
+                <!-- <string>#A1A766</string> -->
+                <string>#C5C8C6</string>
             </dict>
         </dict>
 
         <dict>
             <key>name</key>
-            <string>Sql green single quotes</string>
+            <string>Sql strings</string>
             <key>scope</key>
-            <string>text.html.basic source.php.embedded.block.html string.quoted.single.sql.php source.sql.embedded.php keyword, text.html.basic source.php.embedded.block.html string.quoted.single.sql.php source.sql.embedded.php, text.html.basic source.php.embedded.block.html string.quoted.single.sql.php source.sql.embedded.php keyword.operator, text.html.basic source.php.embedded.block.html string.quoted.single.sql.php source.sql.embedded.php constant.numeric, text.html.basic source.php.embedded.block.html string.quoted.single.sql.php source.sql.embedded.php storage.type</string>
+            <string>string.quoted.single.sql, string.quoted.double.sql</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
+                <!-- <string>#81A2BE</string> -->
                 <string>#A1A766</string>
+                <!-- <string>#C5C8C6</string> -->
             </dict>
         </dict>
 
