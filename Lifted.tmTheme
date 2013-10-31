@@ -794,6 +794,19 @@
 
         <dict>
             <key>name</key>
+            <string>Css html source gold end bracket fix</string>
+            <key>scope</key>
+            <string>punctuation.definition.tag.end.html</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A67F32</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
             <string>Sql source</string>
             <key>scope</key>
             <string>source.sql, meta.create.sql, keyword.operator.star.sql, keyword.opterator.comparison.sql, entity.name.function.sql, constant.other.table-name.sql, constant.other.database-name.sql</string>
