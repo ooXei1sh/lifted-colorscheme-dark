@@ -567,10 +567,8 @@
             <string>sublimelinter.outline.warning</string>
             <key>settings</key>
             <dict>
-                <key>background</key>
-                <string>#DF9400</string>
                 <key>foreground</key>
-                <string>#FFFFFF</string>
+                <string>#1E1E1F</string>
             </dict>
         </dict>
 
@@ -581,8 +579,8 @@
             <string>sublimelinter.underline.warning</string>
             <key>settings</key>
             <dict>
-                <key>background</key>
-                <string>#FF0000</string>
+                <key>foreground</key>
+                <string>#DF9400</string>
             </dict>
         </dict>
 
