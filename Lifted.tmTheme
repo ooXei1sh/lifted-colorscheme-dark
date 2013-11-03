@@ -851,6 +851,40 @@
             </dict>
         </dict>
 
+        <!-- bash -->
+        <dict>
+            <key>name</key>
+            <string>Bash source</string>
+            <key>scope</key>
+            <string>source.shell</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <!-- blue -->
+                <!-- <string>#81A2BE</string> -->
+                <!-- gold -->
+                <!-- <string>#A1A766</string> -->
+                <!-- white -->
+                <string>#C5C8C6</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>name</key>
+            <string>Bash func and keywords</string>
+            <key>scope</key>
+            <string>support.function.builtin.shell</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#CC6666</string>
+            </dict>
+        </dict>
+
     </array>
 </dict>
 </plist>
