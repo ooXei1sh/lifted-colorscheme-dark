@@ -8,7 +8,6 @@
     <string>Lifted</string>
     <key>settings</key>
     <array>
-
         <dict>
             <key>settings</key>
             <dict>
@@ -28,7 +27,6 @@
                 <string>#0008A8</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Block cursor</string>
@@ -42,7 +40,6 @@
                 <string>#228B22</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Comment</string>
@@ -54,7 +51,6 @@
                 <string>#9EA19E</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Gold String Link, Regular Expression, Tag Name</string>
@@ -66,7 +62,6 @@
                 <string>#A67F32</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Green Regular Expression</string>
@@ -78,8 +73,6 @@
                 <string>#A1A766</string>
             </dict>
         </dict>
-
-        <!-- match foreground color -->
         <dict>
             <key>name</key>
             <string>Foreground</string>
@@ -93,7 +86,6 @@
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Variable</string>
@@ -105,7 +97,6 @@
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Operators</string>
@@ -117,7 +108,6 @@
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Php red class name</string>
@@ -129,7 +119,6 @@
                 <string>#CC6666</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Php blue arg hints</string>
@@ -141,7 +130,6 @@
                 <string>#81A2BE</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Class type</string>
@@ -155,7 +143,6 @@
                 <string>#6CBE25</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Inherited class</string>
@@ -164,7 +151,6 @@
             <key>settings</key>
             <dict/>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Teal Function name</string>
@@ -176,7 +162,6 @@
                 <string>#4D9999</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Orange function argument</string>
@@ -188,7 +173,6 @@
                 <string>#DBA639</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Number, Constant</string>
@@ -202,21 +186,6 @@
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Class, Support</string>
-            <key>scope</key>
-            <string>entity.name.class</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string></string>
-                <key>foreground</key>
-                <string>#FFFFFF88</string>
-            </dict>
-        </dict>
-
         <dict>
             <key>name</key>
             <string>Green meta strings for html and more</string>
@@ -230,7 +199,6 @@
                 <string>#A1A766</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Function, Special Method, Block Level</string>
@@ -244,7 +212,6 @@
                 <string>#81A2BE</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Keyword, Storage</string>
@@ -258,7 +225,6 @@
                 <string>#B294BB</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Storage modifier</string>
@@ -272,7 +238,6 @@
                 <string>#A1A766</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Invalid</string>
@@ -288,7 +253,6 @@
                 <string>#CED2CF</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Separator</string>
@@ -302,7 +266,6 @@
                 <string>#CED2CF</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>diff.deleted</string>
@@ -316,7 +279,6 @@
                 <string>#F8F8F8</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>diff.changed</string>
@@ -330,7 +292,6 @@
                 <string>#F8F8F8</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>diff.inserted</string>
@@ -344,7 +305,6 @@
                 <string>#F8F8F8</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Raw Markup</string>
@@ -356,7 +316,6 @@
                 <string>#C9E2B911</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Block Quote</string>
@@ -368,7 +327,6 @@
                 <string>#60634322</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>List</string>
@@ -380,7 +338,6 @@
                 <string>#63645E22</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Bold Markup</string>
@@ -394,7 +351,6 @@
                 <string>#78728C</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Italic Markup</string>
@@ -408,7 +364,6 @@
                 <string>#80FFBB</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Heading Markup</string>
@@ -420,7 +375,6 @@
                 <string>bold</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Deprecated</string>
@@ -436,7 +390,6 @@
                 <string>#CED2CF</string>
             </dict>
         </dict>
-
         <dict>
             <key>scope</key>
             <string>entity.name.filename.find-in-files</string>
@@ -446,7 +399,6 @@
                 <string>#E6DB74</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>css.id</string>
@@ -458,7 +410,6 @@
                 <string>#81A2BE</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>css.class</string>
@@ -470,7 +421,6 @@
                 <string>#81A2BE</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>less.mixin</string>
@@ -482,7 +432,6 @@
                 <string>#C0E18C</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>css.element</string>
@@ -494,7 +443,6 @@
                 <string>#DA4632</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>css.string</string>
@@ -506,7 +454,6 @@
                 <string>#FF950A</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>css.other</string>
@@ -518,11 +465,9 @@
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
-        <!-- Linter -->
         <dict>
             <key>name</key>
-            <string>SublimeLinter Annotations</string>
+            <string>Sublime Linter Annotations</string>
             <key>scope</key>
             <string>sublimelinter.annotations</string>
             <key>settings</key>
@@ -533,10 +478,9 @@
                 <string>#FFFFFF</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
-            <string>SublimeLinter Error Outline</string>
+            <string>SublimeLinter Linter Error Outline</string>
             <key>scope</key>
             <string>sublimelinter.outline.illegal</string>
             <key>settings</key>
@@ -547,7 +491,6 @@
                 <string>#FFFFFF</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>SublimeLinter Error Underline</string>
@@ -559,7 +502,6 @@
                 <string>#FF0000</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>SublimeLinter Warning Outline</string>
@@ -571,7 +513,6 @@
                 <string>#1E1E1F</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>SublimeLinter Warning Underline</string>
@@ -583,7 +524,6 @@
                 <string>#DF9400</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>SublimeLinter Violation Outline</string>
@@ -597,7 +537,6 @@
                 <string>#FFFFFF</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>SublimeLinter Violation Underline</string>
@@ -609,8 +548,6 @@
                 <string>#FF0000</string>
             </dict>
         </dict>
-        <!-- End Linter -->
-
         <dict>
             <key>name</key>
             <string>Html basic</string>
@@ -624,7 +561,6 @@
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Php gold brackets</string>
@@ -638,7 +574,6 @@
                 <string>#A67F32</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Js white source</string>
@@ -652,7 +587,6 @@
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Js white args</string>
@@ -666,7 +600,6 @@
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Js gold angle brackets on script tags</string>
@@ -680,7 +613,6 @@
                 <string>#A67F32</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Php green tag</string>
@@ -694,7 +626,6 @@
                 <string>#A1A766</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Php red methods</string>
@@ -708,7 +639,6 @@
                 <string>#CC6666</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Php red name space and use metas</string>
@@ -722,7 +652,6 @@
                 <string>#CC6666</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Sql green double quotes</string>
@@ -736,7 +665,6 @@
                 <string>#A1A766</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Sql green single quotes</string>
@@ -750,7 +678,6 @@
                 <string>#A1A766</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Css white source</string>
@@ -764,7 +691,6 @@
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Css white properties</string>
@@ -776,7 +702,6 @@
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Css blue attributes and selectors</string>
@@ -786,10 +711,8 @@
             <dict>
                 <key>foreground</key>
                 <string>#B294BB</string>
-                <!-- <string>#81A2BE</string> -->
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Css html source gold end bracket fix</string>
@@ -801,8 +724,6 @@
                 <string>#A67F32</string>
             </dict>
         </dict>
-
-
         <dict>
             <key>name</key>
             <string>Sql source</string>
@@ -814,11 +735,8 @@
                 <string></string>
                 <key>foreground</key>
                 <string>#81A2BE</string>
-                <!-- <string>#A1A766</string> -->
-                <!-- <string>#C5C8C6</string> -->
             </dict>
         </dict>
-
          <dict>
             <key>name</key>
             <string>Sql keyword</string>
@@ -829,12 +747,9 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <!-- <string>#81A2BE</string> -->
-                <!-- <string>#A1A766</string> -->
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Sql strings</string>
@@ -845,13 +760,9 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <!-- <string>#81A2BE</string> -->
                 <string>#A1A766</string>
-                <!-- <string>#C5C8C6</string> -->
             </dict>
         </dict>
-
-        <!-- bash -->
         <dict>
             <key>name</key>
             <string>Bash source</string>
@@ -862,18 +773,12 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <!-- blue -->
-                <!-- <string>#81A2BE</string> -->
-                <!-- gold -->
-                <!-- <string>#A1A766</string> -->
-                <!-- white -->
                 <string>#C5C8C6</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
-            <string>Bash func and keywords</string>
+            <string>Bash funcs</string>
             <key>scope</key>
             <string>support.function.builtin.shell</string>
             <key>settings</key>
@@ -884,7 +789,6 @@
                 <string>#CC6666</string>
             </dict>
         </dict>
-
     </array>
 </dict>
 </plist>
