@@ -1,7 +1,7 @@
 Lifted Color Scheme
 ===================
 
-Dark color scheme for Sublime Text
+Dark color scheme for Sublime Text 3
 ------------------------------------
 
 A dark color scheme lifted from [lioshi](https://github.com/lioshi/lioshiScheme).
