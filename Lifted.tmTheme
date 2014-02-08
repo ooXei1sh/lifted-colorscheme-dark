@@ -190,7 +190,7 @@
             <key>name</key>
             <string>Sql Source</string>
             <key>scope</key>
-            <string>source.sql, source.sql keyword.operator, source.sql constant.numeric, storage.type.sql, source.sql support.function</string>
+            <string>source.sql, source.sql keyword.operator, source.sql constant.numeric, storage.type.sql, source.sql support.function, source.sql.embedded.php constant.other</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
