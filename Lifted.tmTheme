@@ -114,7 +114,7 @@
             <key>name</key>
             <string>Keyword</string>
             <key>scope</key>
-            <string>keyword.control, keyword.other.new, keyword.other.use, keyword.other.namespace, storage.type</string>
+            <string>keyword.control, keyword.other.new, keyword.other.use, keyword.other.namespace,keyword.operator.new, storage.type</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -293,6 +293,128 @@
             <dict>
                 <key>foreground</key>
                 <string>#B294BB</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Sublime Linter Annotations</string>
+            <key>scope</key>
+            <string>sublimelinter.annotations</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#FFFFAA</string>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>SublimeLinter Linter Error Outline</string>
+            <key>scope</key>
+            <string>sublimelinter.outline.illegal</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#802626</string>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>SublimeLinter Error Underline</string>
+            <key>scope</key>
+            <string>sublimelinter.underline.illegal</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#FF0000</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>SublimeLinter Warning Outline</string>
+            <key>scope</key>
+            <string>sublimelinter.outline.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#1E1E1F</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>SublimeLinter Warning Underline</string>
+            <key>scope</key>
+            <string>sublimelinter.underline.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DF9400</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>SublimeLinter Violation Outline</string>
+            <key>scope</key>
+            <string>sublimelinter.outline.violation</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#ffffff33</string>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>SublimeLinter Violation Underline</string>
+            <key>scope</key>
+            <string>sublimelinter.underline.violation</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#FF0000</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff.deleted</string>
+            <key>scope</key>
+            <string>markup.deleted</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#800F00</string>
+                <key>foreground</key>
+                <string>#F8F8F8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff.changed</string>
+            <key>scope</key>
+            <string>markup.changed</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#806F00</string>
+                <key>foreground</key>
+                <string>#F8F8F8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff.inserted</string>
+            <key>scope</key>
+            <string>markup.inserted</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#228000</string>
+                <key>foreground</key>
+                <string>#F8F8F8</string>
             </dict>
         </dict>
     </array>
