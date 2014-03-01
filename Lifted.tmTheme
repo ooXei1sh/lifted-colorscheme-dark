@@ -236,7 +236,7 @@
             <key>name</key>
             <string>Keyword</string>
             <key>scope</key>
-            <string>keyword.control, keyword.other.new, keyword.other.use, keyword.other.namespace, keyword.operator.new, keyword.operator.logical, storage.type</string>
+            <string>keyword.control, keyword.other.new, keyword.other.use, keyword.other.namespace, keyword.operator.new, keyword.operator.logical, storage.type, text.html.basic source.php.embedded.block.html meta.use.php keyword.other.use-as.php</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
